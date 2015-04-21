@@ -25,7 +25,6 @@ public class Main {
 		Lotogol obj2 = new Lotogol(); //inicializa un objeto de la Clase Lotogol
 		my_arrList.add(obj2); //añade la clase Lotogol a la lista
 		
-		
 		Scanner sc = new Scanner(System.in);
 		System.out.println("\t\tSIST. DE LOTERIAS");
 		System.out.println("MENU DE OPCIONES:");
